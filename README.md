@@ -55,7 +55,7 @@ $ sudo pip3 install adafruit-circuitpython-gps
 The main program is rewritten to work on python3 using python3 version of ThunderBorg.py
 First, convert all files into executable format, by
 ```shell
-$ cd GPS
+$ cd Simple_GPS_Forward_and_stop/GPS
 $ chmod +x install.sh
 $ sudo ./install.sh
 ```
